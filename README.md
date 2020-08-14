@@ -16,8 +16,9 @@ gem 'pry'
 
 gem 'nokogiri'
 
-Ensuite lancer le programme avec :
-	ruby app.rb
+Ensuite lancer le programme avec : 
+ 
+ 	ruby app.rb
 
 # Composition du programme:
 
