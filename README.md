@@ -7,9 +7,13 @@ Ce programme consiste a récupérer les addresses mails des mairies de la ville 
 Il faut d'abord installer les gem suivant :
 
 gem 'google_drive'
+
 gem 'json'
+
 gem 'csv'
+
 gem 'pry'
+
 gem 'nokogiri'
 
 Ensuite lancer le programme avec :
